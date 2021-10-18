@@ -41,7 +41,7 @@
    - 启动工程配置
      > make menuconfig
      - 此时能看到以下界面
-       ![doc/imgs/esp8266_idf_sdk_envirnment_setup__menu_config_snapshot.png]
+       ![make menuconfig](/imgs/esp8266_idf_sdk_envirnment_setup__menu_config_snapshot.png)
      - ```Exit```退出后时选择```Yes```可以看到如下log说明配置成功
        ```
        MENUCONFIG
